@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm iLofiz</h1>
-<h3 align="center">..A Fullstack (Mainly) Java & Kotlin Developer</h3>
+<h3 align="left">..A Fullstack (Mainly) Java & Kotlin Developer</h3>
 <h3 align="left">British 14 Year Old Developer!</h1>
 <h3 align="center">I Know...</h1>
 
